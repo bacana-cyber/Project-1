@@ -1,0 +1,23 @@
+.banner{
+    background-image: url(https://www.kitchensanctuary.com/wp-content/uploads/2015/02/Chicken-Shawarma-square-FS-57.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cober;
+    padding:250px 0px;
+}
+
+.icons{
+    font-size:medium
+}
+.align-center{
+    text-align: center;
+}
+
+.shawrma{
+    background-image: url(https://www.kitchensanctuary.com/wp-content/uploads/2015/02/Chicken-Shawarma-square-FS-57.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cober;
+    padding:100px 0px;
+    margin-top:100px;
+}
